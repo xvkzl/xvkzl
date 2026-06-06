@@ -1,4 +1,4 @@
-![banner]()
+![banner](ascii-art.png)
 Instagram: frxsy
 Discord: xvkzl
 Email: xvkzl@dnmx.cc
