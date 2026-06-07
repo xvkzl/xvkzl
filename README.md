@@ -24,7 +24,8 @@ learning:
 - wgpu, Rapier2D/3D, kira, malware development...
      and some shit we dont talk about here haha
 
-**---------------------- PGP ----------------------**
+**PGP**
+ **↓**
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
