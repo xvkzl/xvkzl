@@ -26,7 +26,7 @@ learning:
 
 **---------------------- PGP ----------------------**
 ```
-          -----BEGIN PGP PUBLIC KEY BLOCK-----
+-----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mDMEaiRcRxYJKwYBBAHaRw8BAQdAL/+yrNr672PXGX1u/hoN39TAsWCQo+u+AXOD
 J5ESWw+0NFNvdW1lc3dhciBCaHV0eSAobTBuc3QzcnNhcmVhbW9uZ3VzKSA8eHZr
@@ -39,5 +39,5 @@ Qb357KLCBQJqJFxHAhsMAAoJEH9rQb357KLCB4EA/3SSTUILvzEy5fJ6SSk7jLAJ
 jbz6wfRVp+tqINH3Sh5KAQC/XBdlC/rchXpL0LV45gLvGruzYQ6ByBh559rkdDyP
 AA==
 =Cx2N
-          -----END PGP PUBLIC KEY BLOCK-----
+-----END PGP PUBLIC KEY BLOCK-----
 ```
